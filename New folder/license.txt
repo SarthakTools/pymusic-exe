@@ -1,0 +1,13 @@
+PyMusic
+
+Copyright (c) 2026 Sarthak Singh
+
+Permission is granted to install and use this software free of charge.
+
+You may not:
+- Redistribute modified versions without permission.
+- Sell this software as your own.
+- Remove copyright notices.
+
+This software is provided "AS IS", without warranty of any kind.
+The author is not responsible for any damage or data loss resulting from its use.

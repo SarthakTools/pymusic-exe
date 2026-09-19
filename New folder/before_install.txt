@@ -1,0 +1,10 @@
+Welcome to the PyMusic Setup Wizard!
+
+Thank you for choosing PyMusic.
+
+Before installing:
+• Close any running instance of PyMusic.
+• Internet connection is required on first launch to download app resources.
+• Installation may take a few moments.
+
+Click Next to continue.
